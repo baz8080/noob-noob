@@ -19,7 +19,7 @@
 
         <service
             android:name=".GodDamnService"
-            android:icon="@drawable/goddamn"
+            android:icon="@drawable/ic_mood"
             android:label="God Damn"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
             <intent-filter>
